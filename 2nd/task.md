@@ -1,0 +1,1 @@
+The main idea of this project is to create a structure that would describe a sheep, create this sheep family tree and write a program that would return some information about the sheep

@@ -1,0 +1,11 @@
+The program is called "1.exe", its code - "1.hs".
+List of commands of test that shows its abilities - "Test1.txt"; the picture of the test - "Test1.1.png".
+Commands that are possible for "1.exe" can be seeing while the exe-file is activated.
+File "output.txt" will be created automatically by the program.
+I didn't create a list of all functions of "1.hs":
+There are 2 different ways to create a type for a Person - both has same roles, but they are a little bit different and use different functions.
+The difference can be seeing by using technical requests in "1.exe" ("tpers1",.. "tpers8").
+But actually it does not matter. Furthermore, user can see, if they try all the program requests  that after reading from file persons exchanges their types.
+The program is working with 4 different personalities.
+"Test1.2.png" - some of functions that is used, demonstration via "1.hs" file.
+

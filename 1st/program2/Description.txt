@@ -1,0 +1,19 @@
+
+Description fron the program#1:
+	The program is called "2.exe", its code - "2.hs".
+	Commands that are possible for "2.exe" can be seeing while the exe-file is activated.
+	File "output.txt" will be created automatically by the program.
+	I didn't create a list of all functions of "1.hs":
+	There are 2 different ways to create a type for a Person - both has same roles, but they are a little bit different and use different functions.
+	The difference can be seen by technical requests in "2.exe" ("tpers1",.. "tpers8").
+	But actually it does not matter. Furthermore, user can see, if they try all the program requests  that after reading from file persons exchanges their types.
+	The program is working with 4 different personalities.
+addition:
+	Basically there is not much difference from the program#1. 
+	Just new names and some changes in function "numsf" - now there are 3 functions instead of one.
+	That is all.
+	I got an idea to create different initialization functions for the "Person" and "Person2" types (not just "name" or "name2", but "firstname" "middlename" "lastname").
+	But it would only make the program harder to understand and wont effect the task. (if I missunderstood the task I can write these functions).
+	List of commands of test that shows its abilities - "Test2.txt"; the picture of the test - "Test2.1.png".
+	"Test2.2.png" - some of functions that is used, demonstration via "2.hs" file.
+
